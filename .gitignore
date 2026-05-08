@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+git.ipynb
+_ pycache _/
+.ipynb_checkpoints/
+*.log
